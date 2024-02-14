@@ -1,4 +1,5 @@
-**Changelog: 14.2 - 2024 - Novinky / DevLog**
+### Changelog: 14.2 - 2024 - Novinky / DevLog
+
 Další novinky z vývoje serveru.
 V tomto seznamu změn se vám pokusím napsat změny které jsem provedl během týdne.
 

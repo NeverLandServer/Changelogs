@@ -18,6 +18,9 @@
   - Kód shopu a credit shopu obsahoval hodně velký nedostatek ekonomické nádstavby díky které se hodně opakoval kód.
   - Bylo proto evidentní že se ukázal vývojový dluh.
   - Více méně teď je kód již efektivní.
+- Proběhla aktualizace ArcaStats, collector shromažduje statistiky hráčů.
+  - V minulosti byl kód strukturován zbytečně složitě, a mohl by v následku většího náporu zbytečně vytěžovat server.
+  - Proto jsem byl nucen předělat kód, pro lepší správu paměti a cache.
 - Proběhla aktualizace pluginu k misím, díky této aktualizaci mohu přidávat další a další mise.
   - Aktualizace to byla kompletné, kompletně se změnila část kódu díky které se zlepšila stabilita.
 
@@ -25,3 +28,5 @@
 - Byli opraveny chyby v misích, popisky překlady atd odměny.
   - Popisky úloh obsahovali zavádějící informace.
   - Odměny u pár misí neseděli.
+- Proběhla oprava některých starých částí kódu a momentálně by mohla být zátěž i nižší.
+  - Co se týká hlavně paměti a jejího využití v hlavním pluginu MagentaPro.

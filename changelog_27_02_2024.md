@@ -6,12 +6,17 @@
 <img src="https://github.com/NeverLandServer/Changelogs/assets/9441083/30d13519-8a9f-4167-bea7-01c97538fffc" height="400">
 </div>
 
+# Otevření serveru
+Již brzy se opravdu server otevře veřejnosti beta testování proběhne po víkendu. Cca v Úterý **05.03 2024**.
+Doufám že se vám server bude líbit a že se na něm budete bavit, především server stále poběží v beta verzi buď to shovívaví.
+Všechny případné chyby prosím nahlaste kdyby něco nefungovalo děkuji.
 
 #### Novinky
 - Přidány nové mise
 - Některé mise obsahují nově boss bar progress který se ukáže v okamžiku že provádíte nějaký progress.
 - Byli přidány nové NPC, které obsahují mise.
 - Přidán příkaz /whois <jméno> - Tento příkaz dokáže zjistit informace o hráči i jeho aktuální IP a Zemi.
+- Přidána možnost udělat trade s kredity, podařilo se mi napojit credity na API TradeSystemu a nyní je již tato možnost aktivní.
 
 #### Aktualizace
 - Proběhla kompletní změna kódu ekonomiky v shop sekci.

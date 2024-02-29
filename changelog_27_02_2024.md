@@ -27,7 +27,7 @@ Všechny případné chyby prosím nahlaste kdyby něco nefungovalo děkuji.
   - V minulosti byl kód strukturován zbytečně složitě, a mohl by v následku většího náporu zbytečně vytěžovat server.
   - Proto jsem byl nucen předělat kód, pro lepší správu paměti a cache.
 - Proběhla aktualizace pluginu k misím, díky této aktualizaci mohu přidávat další a další mise.
-  - Aktualizace to byla kompletné, kompletně se změnila část kódu díky které se zlepšila stabilita.
+  - Kompletně se změnila část kódu díky které se zlepšila stabilita, a samozřejmostí jsou další funkce pro tvorbu misí a nové možnosti.
 
 #### Opravy
 - Byli opraveny chyby v misích, popisky překlady atd odměny.
